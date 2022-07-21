@@ -22,4 +22,8 @@ var intersect = function(nums1, nums2) {
 };
 console.log()
 
+
+
 //https://leetcode.com/problems/intersection-of-two-arrays-ii/
+//https://leetcode.com/problems/search-insert-position/
+//https://leetcode.com/problems/remove-duplicates-from-sorted-list/
